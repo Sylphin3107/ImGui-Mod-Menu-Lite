@@ -1,0 +1,8 @@
+Package: com.sylphin3107.imguimodmenu
+Name: IMGUI MOD MENU
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: IMGUI MOD MENU
+Maintainer: Sylphin3107
+Author: Sylphin3107
